@@ -1,10 +1,3 @@
-# Deploy Buttons
-
-[Copy code](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/readme.md) (change the github link to your repository)
-
-## Remade (by me)
-
-### HTML
 
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://replit.com/github/BinBashBanana/deploy-buttons"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
